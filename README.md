@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Scient
 - 🌱 I’m currently learning Data Scient with R
 - 💞️ I’m looking to collaborate on Company
-- 📫 How to reach me ...
+- 📫 How to reach me 25abdul.latif@gmail.com
 
 <!---
 Latiefabdul/Latiefabdul is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
